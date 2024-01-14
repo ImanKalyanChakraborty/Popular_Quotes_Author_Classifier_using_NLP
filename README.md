@@ -40,15 +40,15 @@ This project consists of code that uses NLP techniques for author name predictio
 
 ## All the authors and their corresponding number of quotes in the dataset
 
-![Image](../Images/EDA.png)
+![Image](/Images/EDA.png)
 
 ## Length Distribution of Words
 
-![Image](../Images/Sample_Distrib.png)
+![Image](/Images/Sample_Distrib.png)
 
 ## Pie Chart of top 20 Words
 
-![Image](../Images/Pie.png)
+![Image](/Images/Pie.png)
 
 # Accuracies
 
